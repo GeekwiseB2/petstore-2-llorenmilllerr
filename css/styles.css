@@ -1,0 +1,116 @@
+/*========== Globals ==========*/
+
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+
+/*font-family: 'Satisfy', cursive;*/
+
+.white-text {
+  color: #fff;
+}
+
+.blue-text {
+  color: #63AFE6;
+}
+
+/*========= Header Styles ==========*/
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items:center;
+}
+
+.logo {
+  height: 85px;
+}
+
+#brand {
+  font-family: 'Satisfy', cursive;
+  color: #FF827B; /*orange accent color*/
+  /*margin-top: 29px;*/
+  font-size: 42px;
+}
+
+header ul.nav-pills {
+  /*margin-top: 26px;*/
+  font-size: 18px;
+}
+
+/*========== HERO =========*/
+.jumbotron {
+  height: 425px;
+  background-image: url('../img/hero.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.jumbotron p {
+  margin-top: 16px;
+  font-size: 28px;
+}
+
+/*========== FEATURED ==========*/
+
+.thumbnail {
+  background-color: #EDF1F4;
+  padding: 8px;
+  border: solid #FCFCFC 4px;
+  border-radius: 5px;
+}
+
+/*========== SERVICES ==========*/
+
+.nav-stacked p {
+  margin-bottom: 16px;
+}
+
+/*========== FOOTER ============*/
+
+footer {
+  background-color: #231F20;
+  padding: 20px 0;
+}
+
+address, address a {
+  text-decoration: none;
+  color: #BFC0C1
+}
+
+.border {
+  border-left: 1px solid #333;
+}
+
+.social-media {
+  color: #BFC0C1;
+  text-decoration: none;
+  line-height: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
